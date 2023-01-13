@@ -6,4 +6,4 @@
 หากมีวัตถุอยู่ในระยะตัว Buzzer จะไม่ส่งเสียงเตือน
 
 <h1>ตัวอย่าง code</h1>
-![carbon (1)](https://user-images.githubusercontent.com/57782275/212332210-88dab1ab-bba0-4ac5-a33b-7015ef151d27.png)
+<img ![carbon (1)](https://user-images.githubusercontent.com/57782275/212332384-55ec7ce1-b436-418d-94ed-2c1d8edf576e.png)>
