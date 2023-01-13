@@ -6,3 +6,4 @@
 หากมีวัตถุอยู่ในระยะตัว Buzzer จะไม่ส่งเสียงเตือน
 
 <h1>ตัวอย่าง code</h1>
+![code_missbox](https://user-images.githubusercontent.com/57782275/212332799-a34b198a-558d-4902-8681-7b87dc138ab0.png)
